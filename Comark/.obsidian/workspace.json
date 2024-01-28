@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d0da641ab0083896",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Week one Material.md",
+                "file": "Material/essentialsOfComputerArchitecture.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Week one Material.md",
+                "file": "Material/essentialsOfComputerArchitecture.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Week one Material.md"
+                "file": "Material/essentialsOfComputerArchitecture.pdf"
               }
             }
           }
@@ -164,20 +165,20 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "b6cca4d7a95da594",
+  "active": "5f59cfa50d1f2a1f",
   "lastOpenFiles": [
-    "Material/essentialsOfComputerArchitecture.pdf",
     "Notes/Week one Material.md",
-    "Attachments/Floating points.png",
-    "Attachments/Unsigned fact.png",
-    "Attachments/Week one Material.png",
-    "Attachments/Different Signed.png",
-    "Attachments/Example of little and big endian.png",
-    "Attachments/Pasted image 20240127200650.png",
-    "Attachments/Example of Overflow.png",
-    "Attachments/Ascii character set.png",
-    "Attachments/HexaDecimal System.png",
-    "Attachments/digit comparrison for decimal vs base 2.png",
+    "Attachments/Summarize of how to use fetch-execute.png",
+    "Attachments/Clock rate and instruction rate.png",
+    "Material/essentialsOfComputerArchitecture.pdf",
+    "Attachments/Process of program translation.png",
+    "Attachments/Fetch execute important.png",
+    "Attachments/algorithm 4.1.png",
+    "Attachments/To a computer architect ... stored programs.png",
+    "Attachments/Example of a microcontroller.png",
+    "Attachments/Processor Components.png",
+    "Attachments/CPU.png",
+    "Attachments/Von Neumann is highly adopted.png",
     "Untitled.md",
     "Attachments",
     "Material/anIntroductionToComputerNetworks.pdf",

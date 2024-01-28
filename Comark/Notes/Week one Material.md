@@ -72,3 +72,74 @@ example of overflow
 ![[Floating points.png]]
 
 # The variety of Processors and Computational Engines.
+## The two basic architectural approaches
+### Harvard Architecture
+This architecture refers to a computer organization with 4 principal components. a Processor, an instruction memory, a data memory and I/O facilities.
+![[Harvard Architecture.png]]
+Benefits of the Harvard Architecture is that it can optimize memory to store programs and one optimized for storing data.
+
+### Von Neumann Architecture
+The Von Neumann uses the same components as the harvard architecture, however, the Von Neumann only uses one memory to hold both programs and data.
+![[Von Neumann Architecture.png]]
+This System offers complete flexibility at any time. Since the owner can change how much of the memory is devoted to programs and how much is for data. This have become widely adopted.
+![[Von Neumann is highly adopted.png]]
+A Von Neumann system is called a Stored Program Approach.
+
+## Definition Of A processor
+For an architect a processor refers to a digital device that can perform a computation involving multiple steps.
+
+## The range of processors
+### Fixed logic
+A processor that performs a specific task. It can not be premodified to compute anything else. Examples of these are compute the function sin(x) or to perform a graphics operation needed in a video game.
+### Selectable logic
+Little more flexible that the fixed logic. A selectable can compute more than one thing depending on the input. For example compute either sin(x) or cos(x).
+### Parameterised logic
+Adds even more flexibility. Typically computes the same functions, however it is more flexible, since it can take more than one parameter.
+### Programmable logic
+These are the most flexible. These can change the sequence of steps each time the processor is used. It can run programs.
+
+## CPU
+![[CPU.png]]
+A CPU contains multiple "engines"/components. That computes different stuff. 
+## Structures of a conventional processor
+![[Processor Components.png]]
+### Controller
+The controller is responsible for program execution. It coordinates the steps through the program to other hardware units.
+### Arithmetic logic unit (ALU)
+It performs one step computational tasks. like integer arithmetic, operations on bits and boolean logic operations. Performs the specific computation the controller asks it to.
+### Local data storage
+Holds local data values. like operands for arthemtic operations and the result. Usually takes form of hardware registers.
+### Internal Interconnection(s)
+a Processor contains one or more of these. Is used to move data and results around the processors hardware. For example between the ALU and the local data storage.
+### External Interface(x) (I/O buses)
+Handles all communication between the processor and the rest of the computer system.
+ In particular, the external interface manages communication between the processor and external memory and I/O devices.
+
+## Processor Categories and roles
+### Coprocessors
+A processor that works in conjunction or with and under the control of another processor.
+Usually is a special purpose processor that performs a single task at high speed. For example a floating point accelerator.
+### Microcontrollers
+A microcontroller does trivial functions that does not need much traditional computation. Like controlling landing gear on an airplane, an engine in a automobile or and automatic door in a grocery store. It typically tests sensors and sends signals to control devices. 
+![[Example of a microcontroller.png]]
+
+### Embedded System Processors
+Runs sophisticated electronic devices such as a wireless router or a smart phone. Is usually more powerful than the ones used for microcontrollers. It often has a protocol stack for communication.
+### General-Purpose Processors
+Most familiar. Examples of these are a CPU in a pc.
+
+
+## Stored Programs
+ROM stands for Read Only Memory
+![[To a computer architect ... stored programs.png]]
+## Fetch-execute Cycle
+Used for access and perform steps of a program. 
+![[algorithm 4.1.png]]
+![[Fetch execute important.png]]
+![[Summarize of how to use fetch-execute.png]]
+
+## Program Translation
+The process of translating a High Level Language (HHL) to a representation that the processor expects/can understand.
+![[Process of program translation.png]]
+## Clock Rate and Instruction Rate
+![[Clock rate and instruction rate.png]]
