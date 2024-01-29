@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b6cca4d7a95da594",
+            "id": "4da72679bb190f83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Week one Material.md",
+                "file": "Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "452261f599f3d15f",
+        "id": "16c871379612ff2a",
         "type": "tabs",
         "children": [
           {
-            "id": "5f59cfa50d1f2a1f",
+            "id": "b74af9ee6316a25b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Material/essentialsOfComputerArchitecture.pdf"
+                "file": "Material/slidesWeek1.pdf"
               }
             }
           }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/essentialsOfComputerArchitecture.pdf",
+                "file": "Material/slidesWeek1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Material/essentialsOfComputerArchitecture.pdf",
+                "file": "Material/slidesWeek1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/essentialsOfComputerArchitecture.pdf"
+                "file": "Material/slidesWeek1.pdf"
               }
             }
           }
@@ -165,21 +165,22 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "5f59cfa50d1f2a1f",
+  "active": "b74af9ee6316a25b",
   "lastOpenFiles": [
+    "Lecture 1.md",
+    "Material/slidesWeek1.pdf",
+    "Attachments/Terminology week 1.png",
+    "Attachments/Examples of motivation for computer architecture.png",
+    "Attachments/Definition of what a computer is.png",
     "Notes/Week one Material.md",
+    "Material/essentialsOfComputerArchitecture.pdf",
     "Attachments/Summarize of how to use fetch-execute.png",
     "Attachments/Clock rate and instruction rate.png",
-    "Material/essentialsOfComputerArchitecture.pdf",
     "Attachments/Process of program translation.png",
     "Attachments/Fetch execute important.png",
     "Attachments/algorithm 4.1.png",
     "Attachments/To a computer architect ... stored programs.png",
     "Attachments/Example of a microcontroller.png",
-    "Attachments/Processor Components.png",
-    "Attachments/CPU.png",
-    "Attachments/Von Neumann is highly adopted.png",
-    "Untitled.md",
     "Attachments",
     "Material/anIntroductionToComputerNetworks.pdf",
     "Material/operatingSystemsAndMiddleware.pdf",
@@ -189,7 +190,6 @@
     "Notes",
     "Material/anIntroductionToComputerNetworks",
     "Material/operatingSystemsAndMiddleware",
-    "Material/essentialsOfComputerArchitecture",
     "Welcome.md"
   ]
 }
