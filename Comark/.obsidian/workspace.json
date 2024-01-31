@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4da72679bb190f83",
+            "id": "b74af9ee6316a25b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lecture 1.md",
+                "file": "Notes/Material Notes/Week 2 Material.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "16c871379612ff2a",
+        "id": "9f071dd1a55e7e17",
         "type": "tabs",
         "children": [
           {
-            "id": "b74af9ee6316a25b",
+            "id": "de763686a1293ee3",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Material/slidesWeek1.pdf"
+                "file": "Material/essentialsOfComputerArchitecture.pdf"
               }
             }
           }
@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/slidesWeek1.pdf",
+                "file": "Material/essentialsOfComputerArchitecture.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Material/slidesWeek1.pdf",
+                "file": "Material/essentialsOfComputerArchitecture.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/slidesWeek1.pdf"
+                "file": "Material/essentialsOfComputerArchitecture.pdf"
               }
             }
           }
@@ -165,22 +164,25 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "b74af9ee6316a25b",
+  "active": "de763686a1293ee3",
   "lastOpenFiles": [
-    "Lecture 1.md",
-    "Material/slidesWeek1.pdf",
-    "Attachments/Terminology week 1.png",
-    "Attachments/Examples of motivation for computer architecture.png",
-    "Attachments/Definition of what a computer is.png",
-    "Notes/Week one Material.md",
+    "Notes/Material Notes/Week 2 Material.md",
     "Material/essentialsOfComputerArchitecture.pdf",
-    "Attachments/Summarize of how to use fetch-execute.png",
-    "Attachments/Clock rate and instruction rate.png",
-    "Attachments/Process of program translation.png",
-    "Attachments/Fetch execute important.png",
-    "Attachments/algorithm 4.1.png",
-    "Attachments/To a computer architect ... stored programs.png",
-    "Attachments/Example of a microcontroller.png",
+    "Attachments/Classification scheme for integrated circuits.png",
+    "Attachments/Clockless logic with 2 signals.png",
+    "Attachments/Example of feedback implemented in the clock example.png",
+    "Attachments/Example of using a clock for starting up a pc.png",
+    "Attachments/Example of a counter.png",
+    "Attachments/Flip flop example.png",
+    "Attachments/A register is.png",
+    "Attachments/Example of how we can construct a 4 bit register.png",
+    "Attachments/how we can remember multiple bits.png",
+    "Attachments/invert it self.png",
+    "Notes/Lecture Notes/Lecture 1.md",
+    "Notes/Material Notes/Week 1 Material.md",
+    "Notes/Lecture Notes",
+    "Notes/Material Notes",
+    "Material/slidesWeek1.pdf",
     "Attachments",
     "Material/anIntroductionToComputerNetworks.pdf",
     "Material/operatingSystemsAndMiddleware.pdf",
@@ -188,8 +190,6 @@
     "Material/operatingSystemsAndMiddleware(OSM).pdf",
     "Material/test.md",
     "Notes",
-    "Material/anIntroductionToComputerNetworks",
-    "Material/operatingSystemsAndMiddleware",
     "Welcome.md"
   ]
 }
