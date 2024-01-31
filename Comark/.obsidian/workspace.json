@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "201d6dca4a0c1a40",
+        "id": "b33708f6384da5aa",
         "type": "tabs",
         "children": [
           {
-            "id": "b74af9ee6316a25b",
+            "id": "dc0f6c640b7a2f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Material Notes/Week 2 Material.md",
+                "file": "Notes/Lecture Notes/Lecture week 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "9f071dd1a55e7e17",
+        "id": "79d7e126eb7f3583",
         "type": "tabs",
         "children": [
           {
-            "id": "de763686a1293ee3",
+            "id": "be9f511f543193ce",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Material/essentialsOfComputerArchitecture.pdf"
+                "file": "Material/slidesWeek1.pdf"
               }
             }
           }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/essentialsOfComputerArchitecture.pdf",
+                "file": "Material/slidesWeek1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Material/essentialsOfComputerArchitecture.pdf",
+                "file": "Material/slidesWeek1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/essentialsOfComputerArchitecture.pdf"
+                "file": "Material/slidesWeek1.pdf"
               }
             }
           }
@@ -164,8 +164,13 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "de763686a1293ee3",
+  "active": "be9f511f543193ce",
   "lastOpenFiles": [
+    "Notes/Lecture Notes/Lecture week 1.md",
+    "Attachments/Example of Overflow vs Carry.png",
+    "Material/slidesWeek1.pdf",
+    "Attachments/converting decimal to bit.png",
+    "Notes/Lecture Notes/Lecture 2.md",
     "Notes/Material Notes/Week 2 Material.md",
     "Material/essentialsOfComputerArchitecture.pdf",
     "Attachments/Classification scheme for integrated circuits.png",
@@ -176,13 +181,9 @@
     "Attachments/Flip flop example.png",
     "Attachments/A register is.png",
     "Attachments/Example of how we can construct a 4 bit register.png",
-    "Attachments/how we can remember multiple bits.png",
-    "Attachments/invert it self.png",
-    "Notes/Lecture Notes/Lecture 1.md",
     "Notes/Material Notes/Week 1 Material.md",
     "Notes/Lecture Notes",
     "Notes/Material Notes",
-    "Material/slidesWeek1.pdf",
     "Attachments",
     "Material/anIntroductionToComputerNetworks.pdf",
     "Material/operatingSystemsAndMiddleware.pdf",
