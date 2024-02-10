@@ -18,11 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ba60f6e27c408c18",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Attachments/Cheat Sheet For Assembly.png"
+              }
+            }
           }
         ]
       },
       {
-        "id": "0675b3a9edda73a8",
+        "id": "3d85fbf62eb730c2",
         "type": "tabs",
         "children": [
           {
@@ -81,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,8 +178,10 @@
   "active": "dc0f6c640b7a2f58",
   "lastOpenFiles": [
     "Notes/Material Notes/week 3 Material.md",
-    "Attachments/Orthogonality definition.png",
     "Material/essentialsOfComputerArchitecture.pdf",
+    "Attachments/Binary representation for 4 different instructions.png",
+    "Attachments/Cheat Sheet For Assembly.png",
+    "Attachments/Orthogonality definition.png",
     "Attachments/Instructions 2.png",
     "Attachments/Example of instruction set.png",
     "Attachments/catogories of operations.png",
@@ -176,8 +189,6 @@
     "Attachments/reaaringing code sequences is optimizing.png",
     "Attachments/Example of optimized code.png",
     "Attachments/pipeline stall example.png",
-    "Attachments/example of pipeline stall.png",
-    "Attachments/risc can be fast.png",
     "Notes/Material Notes/Week 2 Material.md",
     "Notes/Lecture Notes/Lecture week 1.md",
     "Material/slidesWeek1.pdf",
