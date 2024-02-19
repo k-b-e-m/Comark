@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cb27c010dec5f568",
+            "id": "020160ab711be940",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Lecture Notes/Lecture week 3.md",
+                "file": "Week 4 Material.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,16 +22,16 @@
         ]
       },
       {
-        "id": "22aa1a0261db2f86",
+        "id": "aaa0bc8fc51239dd",
         "type": "tabs",
         "children": [
           {
-            "id": "78066c806a9dc238",
+            "id": "cb27c010dec5f568",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Material/slidesWeek3.pdf"
+                "file": "Material/essentialsOfComputerArchitecture.pdf"
               }
             }
           }
@@ -81,8 +81,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Lecture Notes/Lecture week 3.md",
+                "file": "Material/essentialsOfComputerArchitecture.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Lecture Notes/Lecture week 3.md",
+                "file": "Material/essentialsOfComputerArchitecture.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Lecture Notes/Lecture week 3.md"
+                "file": "Material/essentialsOfComputerArchitecture.pdf"
               }
             }
           }
@@ -167,22 +166,23 @@
   },
   "active": "cb27c010dec5f568",
   "lastOpenFiles": [
+    "Week 4 Material.md",
+    "Attachments/Execution CPU.png",
+    "Material/essentialsOfComputerArchitecture.pdf",
+    "Attachments/von Neumann bottleneck.png",
+    "Attachments/Example of 3 operands.png",
+    "Attachments/Example of two operands per instruction.png",
+    "Attachments/example of 1-operand instruction.png",
+    "Attachments/Figure 7.1.png",
     "Material/slidesWeek3.pdf",
     "Notes/Lecture Notes/Lecture week 3.md",
     "Notes/Lecture Notes/Lecture week 1.md",
     "Notes/Material Notes/week 3 Material.md",
     "Notes/Material Notes/Week 2 Material.md",
-    "Material/essentialsOfComputerArchitecture.pdf",
     "Attachments/Cheat Sheet For Assembly.png",
     "Attachments/Binary representation for 4 different instructions.png",
     "Attachments/Orthogonality definition.png",
     "Attachments/Instructions 2.png",
-    "Attachments/Example of instruction set.png",
-    "Attachments/catogories of operations.png",
-    "Attachments/A noOp.png",
-    "Attachments/reaaringing code sequences is optimizing.png",
-    "Attachments/Example of optimized code.png",
-    "Attachments/pipeline stall example.png",
     "Material/slidesWeek1.pdf",
     "Notes/Lecture Notes/Lecture 2.md",
     "Notes/Material Notes/Week 1 Material.md",
