@@ -23,3 +23,23 @@ Enables one to specify where to store result.
 
 ## The Von Neumann Bottleneckt
 ![[von Neumann bottleneck.png]]
+
+# Assembly Languages And Programming Paradigm
+Note that this chapter is mostly explanations and examples of constructs in assembly, therefore this chapter contain few notes.
+## High level languages
+A high level language typically have the following characteristics:
+- One-to-many translation
+- Hardware independence
+- Application orientation
+- General-purpose
+- Powerful abstractions
+## Low level langauges
+a low level language have the following charactaristics:
+- One-to-One translation
+- Hardware dependence
+- Systems programming orientation
+- Special-purpose
+- Few abstractions
+
+## An Assembler
+![[An assembler.png]]

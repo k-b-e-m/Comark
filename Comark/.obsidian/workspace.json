@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "aaa0bc8fc51239dd",
+        "id": "0503abe3398eba88",
         "type": "tabs",
         "children": [
           {
-            "id": "cb27c010dec5f568",
+            "id": "bfc740cafe5233f7",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -164,11 +164,13 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "cb27c010dec5f568",
+  "active": "bfc740cafe5233f7",
   "lastOpenFiles": [
     "Week 4 Material.md",
-    "Attachments/Execution CPU.png",
+    "Attachments/An assembler.png",
     "Material/essentialsOfComputerArchitecture.pdf",
+    "Task 1 Comarch.md",
+    "Attachments/Execution CPU.png",
     "Attachments/von Neumann bottleneck.png",
     "Attachments/Example of 3 operands.png",
     "Attachments/Example of two operands per instruction.png",
@@ -182,7 +184,6 @@
     "Attachments/Cheat Sheet For Assembly.png",
     "Attachments/Binary representation for 4 different instructions.png",
     "Attachments/Orthogonality definition.png",
-    "Attachments/Instructions 2.png",
     "Material/slidesWeek1.pdf",
     "Notes/Lecture Notes/Lecture 2.md",
     "Notes/Material Notes/Week 1 Material.md",
