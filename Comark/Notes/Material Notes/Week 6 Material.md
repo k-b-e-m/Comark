@@ -29,3 +29,41 @@ A memory is *volatile* if the content of the memory disappear when power is remo
 ## The Importance of a Memory Hierarchy
 ![[memory hierachy principle.png]]
 
+
+# Physical Memory and Physical Addressing
+## Static vs Dynamic RAM technologies
+- **Static Ram (SRAM)** 
+	- Easiest to for programmers to understand.
+	- Stores each data bit in a *latch* as discussed in chapter 2
+	- Has high power consumption
+- **Dynamic Ram (DRAM)**
+	- Build with capacitors that slowly lose charge, if enough time passes 1 becomes 0.
+	- Imperfect physical Memory system
+	- Uses a refresh circuit to read and write bits to ensure that memory is not lost.
+	- More used than SRAM
+## The two primary Measures of Memory Tecnology
+### Density
+Strict sense refers to number of memory cells per square area of silicon.
+
+Often instead refers to how many bits that can be represented on a standard size chip.
+
+High density is desirable due to it meaning more memory can be held at the same physical space. Although this means higher heat generation.
+### Latency and Cycle times
+Focuses on speed, meaning how fast the memory can respond to requests,
+![[Hardware memory access.png]]
+![[Latency is insufficient.png]]
+![[read write cycle.png]]
+
+## Words, Physical Addresses, And Memory Transfers
+A block of N bits is sometimes called a *Word* and the transfer size is called *Word Size* or *"width of a word"*.
+*"Physical Memory Address"* is the unique "index" in the memory where the data is stored.
+![[words stored in physical address.png]]
+
+The controller for physical memory access supports two operations: read and write.
+![[Physical memory.png]]
+## Byte Addressing and mapping Bytes to Words
+![[Byte adresses.png]]
+If one wanted read the byte address 17, the controller must issue a read request for the word 4 and then the second byte.
+If one wanted to write byte 17. The controller would have to rewrite the rest of the word.
+## Memory size and Address space
+A string of k bits can represent $2^{k}$ Values.
