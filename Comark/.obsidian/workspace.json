@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2e645bd3dfe378e",
+        "id": "0503abe3398eba88",
         "type": "tabs",
         "children": [
           {
-            "id": "6b593006ba434a9c",
+            "id": "bfc740cafe5233f7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "0503abe3398eba88",
+        "id": "76840b90c9636845",
         "type": "tabs",
         "children": [
           {
-            "id": "bfc740cafe5233f7",
+            "id": "43a77ad73a29df93",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -81,7 +81,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Material Notes/Week 6 Material.md",
+                "file": "Material/essentialsOfComputerArchitecture.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Material Notes/Week 6 Material.md",
+                "file": "Material/essentialsOfComputerArchitecture.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Material Notes/Week 6 Material.md"
+                "file": "Material/essentialsOfComputerArchitecture.pdf"
               }
             }
           }
@@ -164,22 +165,22 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "6b593006ba434a9c",
+  "active": "43a77ad73a29df93",
   "lastOpenFiles": [
-    "Material/essentialsOfComputerArchitecture.pdf",
     "Notes/Material Notes/Week 6 Material.md",
+    "Attachments/Size of l1,l2,l3.png",
+    "Attachments/L1,l2,L3.png",
+    "Material/essentialsOfComputerArchitecture.pdf",
+    "Attachments/Additional cache.png",
+    "Attachments/Multilevel cache.png",
+    "Attachments/LRU algorithm.png",
+    "Attachments/Model of cache.png",
     "Attachments/Byte adresses.png",
     "Attachments/Physical memory.png",
     "Attachments/words stored in physical address.png",
     "Attachments/Hardware memory access.png",
-    "Attachments/read write cycle.png",
-    "Attachments/Latency is insufficient.png",
-    "Attachments/memory hierachy principle.png",
     "Notes/Material Notes/Week 4 Material.md",
-    "Attachments/An assembler.png",
     "Task 1 Comarch.md",
-    "Attachments/Execution CPU.png",
-    "Attachments/von Neumann bottleneck.png",
     "Material/slidesWeek3.pdf",
     "Notes/Lecture Notes/Lecture week 3.md",
     "Notes/Lecture Notes/Lecture week 1.md",
