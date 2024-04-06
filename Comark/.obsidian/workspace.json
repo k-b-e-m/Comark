@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "763de056810c2c4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Material Notes/Week 7 notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "76840b90c9636845",
@@ -64,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "-",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -167,18 +179,19 @@
   },
   "active": "43a77ad73a29df93",
   "lastOpenFiles": [
+    "Notes/Material Notes/Week 7 notes.md",
+    "Material/essentialsOfComputerArchitecture.pdf",
+    "Attachments/Flynn classification.png",
+    "Attachments/microscopic parralelism.png",
     "Notes/Material Notes/Week 6 Material.md",
     "Attachments/Size of l1,l2,l3.png",
     "Attachments/L1,l2,L3.png",
-    "Material/essentialsOfComputerArchitecture.pdf",
     "Attachments/Additional cache.png",
     "Attachments/Multilevel cache.png",
     "Attachments/LRU algorithm.png",
     "Attachments/Model of cache.png",
     "Attachments/Byte adresses.png",
     "Attachments/Physical memory.png",
-    "Attachments/words stored in physical address.png",
-    "Attachments/Hardware memory access.png",
     "Notes/Material Notes/Week 4 Material.md",
     "Task 1 Comarch.md",
     "Material/slidesWeek3.pdf",
