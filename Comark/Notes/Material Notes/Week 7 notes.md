@@ -60,3 +60,22 @@ There are three conditions to be met for a pipeline to perform faster than a sin
 	It should be obvious that if the processors used in a data pipeline are slow enough, the overall time required to perform a computation will be much higher than on a single processor. Processors in the pipeline do not need to be faster than the single processor. We merely require that each processor in the pipeline is approximately as fast as the single processor. That is, the time required to perform a given computation on a pipeline processor must not exceed the time required to perform the same computation on the single processor.
 - **Low overhead data movement.**
 	In addition to the time required to perform computation, a data pipeline has an additional overhead: the time required to move a data item from one stage of the pipeline to the next. If moving the data incurs extremely high latency, pipelining will not increase performance.
+
+# Power And Energy
+## Definition of Power
+*Power* is here defined to be the rate at which energy is consumed. Also taking definitions from physics:
+$$
+P(t)=V(T)\cdot I(T)
+$$
+## Definitions of Energy
+The total *energy* consumed over a given time (from definition of power).
+
+## Power consumption by a Digital circuit
+Given that all digital circuits is created from logic gates and that these are made up of transistors, the transistors consume power in one of two ways.
+- **Switching or dynamic power ($P_s,P_d$)**
+	This refers to change in output in response with input.
+- **Leakage power ($P_{leak}$)**
+	We cannot completely keep electric charges, therefore there are always some leakage from the transistor.
+	![[Leakage power.png]]![[leak.png]]
+
+	
