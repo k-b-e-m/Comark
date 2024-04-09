@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Material/essentialsOfComputerArchitecture.pdf",
+                "file": "Notes/Material Notes/Week 7 notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Material/essentialsOfComputerArchitecture.pdf",
+                "file": "Notes/Material Notes/Week 7 notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Material/essentialsOfComputerArchitecture.pdf"
+                "file": "Notes/Material Notes/Week 7 notes.md"
               }
             }
           }
@@ -177,21 +178,22 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "43a77ad73a29df93",
+  "active": "763de056810c2c4f",
   "lastOpenFiles": [
+    "Attachments/Amdahls law.png",
+    "Attachments/Software hardware.png",
+    "Material/essentialsOfComputerArchitecture.pdf",
     "Notes/Material Notes/Week 7 notes.md",
+    "Attachments/Instruction Mix.png",
+    "Attachments/Different people measure different things.png",
+    "Attachments/performance vary.png",
     "Attachments/leak.png",
     "Attachments/Leakage power.png",
-    "Material/essentialsOfComputerArchitecture.pdf",
     "Attachments/Data pip.png",
     "Attachments/A data pipeline.png",
     "Attachments/Characteristics of Pipelines.png",
     "Attachments/Example of Pipelining.png",
-    "Attachments/Flynn classification.png",
-    "Attachments/microscopic parralelism.png",
     "Notes/Material Notes/Week 6 Material.md",
-    "Attachments/Size of l1,l2,l3.png",
-    "Attachments/L1,l2,L3.png",
     "Notes/Material Notes/Week 4 Material.md",
     "Task 1 Comarch.md",
     "Material/slidesWeek3.pdf",

@@ -78,4 +78,26 @@ Given that all digital circuits is created from logic gates and that these are m
 	We cannot completely keep electric charges, therefore there are always some leakage from the transistor.
 	![[Leakage power.png]]![[leak.png]]
 
-	
+
+# Assessing Performance
+## Measuring Computational Power and performance
+![[performance vary.png]]
+![[Different people measure different things.png]]
+## Instruction Mix
+![[Instruction Mix.png]]
+
+
+## Standardized Benchmarks
+*Benchmark* is a set of typical applications for a computer system. 
+SPEC is a corporation that establish, maintain and endorses standardized benchmarks.
+
+## Moving The boundary Between Hardware And Software
+![[Software hardware.png]]
+## Choosing Items to Optimize, Amdahl's Law
+Amdahls law suggests that the greatest gains in performance, is by optimizing functions that account for the most time.
+![[Amdahls law.png]]
+The Law can be expressed with the equation:
+$$
+Speedup_{Overall} = \frac{1}{1-Fraction_{Enhanced}+\frac{Fraction_{Enhanced}}{Speedup_{Enhanced}}}
+$$
+
