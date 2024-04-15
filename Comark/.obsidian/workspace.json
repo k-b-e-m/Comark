@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "0503abe3398eba88",
+        "id": "76840b90c9636845",
         "type": "tabs",
         "children": [
           {
-            "id": "bfc740cafe5233f7",
+            "id": "90334119945920ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Material Notes/Week 6 Material.md",
+                "file": "Notes/Material Notes/Week 8 Material.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "763de056810c2c4f",
+            "id": "a2235141a4f6e5b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Material Notes/Week 7 notes.md",
+                "file": "Notes/Material Notes/Week 10 Material.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,16 +35,16 @@
         "currentTab": 1
       },
       {
-        "id": "76840b90c9636845",
+        "id": "fe7c56d4806e0b3a",
         "type": "tabs",
         "children": [
           {
-            "id": "43a77ad73a29df93",
+            "id": "d1abe03de4cba362",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Material/essentialsOfComputerArchitecture.pdf"
+                "file": "Material/OSM.pdf"
               }
             }
           }
@@ -94,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Material Notes/Week 7 notes.md",
+                "file": "Notes/Material Notes/Week 10 Material.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Material Notes/Week 7 notes.md",
+                "file": "Notes/Material Notes/Week 10 Material.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Material Notes/Week 7 notes.md"
+                "file": "Notes/Material Notes/Week 10 Material.md"
               }
             }
           }
@@ -178,21 +177,24 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "763de056810c2c4f",
+  "active": "a2235141a4f6e5b1",
   "lastOpenFiles": [
+    "Material/OSM.pdf",
+    "Notes/Material Notes/Week 10 Material.md",
+    "Attachments/Mechanism and goal.png",
+    "Attachments/Pasted image 20240412094156.png",
+    "Attachments/wait run queue.png",
+    "Notes/Material Notes/Week 8 Material.md",
+    "Attachments/Pasted image 20240411173614.png",
+    "Attachments/Difference between program and thread.png",
+    "Attachments/Middleware.png",
+    "Notes/Material Notes/Week 7 Material.md",
+    "Material/operatingSystemsAndMiddleware.pdf",
+    "Material/essentialsOfComputerArchitecture.pdf",
     "Attachments/Amdahls law.png",
     "Attachments/Software hardware.png",
-    "Material/essentialsOfComputerArchitecture.pdf",
-    "Notes/Material Notes/Week 7 notes.md",
     "Attachments/Instruction Mix.png",
     "Attachments/Different people measure different things.png",
-    "Attachments/performance vary.png",
-    "Attachments/leak.png",
-    "Attachments/Leakage power.png",
-    "Attachments/Data pip.png",
-    "Attachments/A data pipeline.png",
-    "Attachments/Characteristics of Pipelines.png",
-    "Attachments/Example of Pipelining.png",
     "Notes/Material Notes/Week 6 Material.md",
     "Notes/Material Notes/Week 4 Material.md",
     "Task 1 Comarch.md",
@@ -208,9 +210,7 @@
     "Notes/Material Notes",
     "Attachments",
     "Material/anIntroductionToComputerNetworks.pdf",
-    "Material/operatingSystemsAndMiddleware.pdf",
     "Material/anIntroductionToComputerNetworks(ICN).pdf",
-    "Material/operatingSystemsAndMiddleware(OSM).pdf",
     "Material/test.md",
     "Welcome.md"
   ]
