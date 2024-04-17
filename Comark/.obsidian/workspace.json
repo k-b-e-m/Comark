@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fd105289da0646e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Material Notes/Week 11 material.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "fe7c56d4806e0b3a",
@@ -115,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Material Notes/Week 10 Material.md",
+                "file": "Material/OSM.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Material Notes/Week 10 Material.md",
+                "file": "Material/OSM.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Material Notes/Week 10 Material.md"
+                "file": "Material/OSM.pdf"
               }
             }
           }
@@ -177,9 +189,14 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "a2235141a4f6e5b1",
+  "active": "d1abe03de4cba362",
   "lastOpenFiles": [
+    "Notes/Material Notes/Week 11 material.md",
     "Material/OSM.pdf",
+    "Attachments/Pasted image 20240417091541.png",
+    "Attachments/three operations of semaphores.png",
+    "Attachments/4 different kind of mutex.png",
+    "Attachments/mutex with multiple threads.png",
     "Notes/Material Notes/Week 10 Material.md",
     "Attachments/Mechanism and goal.png",
     "Attachments/Pasted image 20240412094156.png",
@@ -191,10 +208,6 @@
     "Notes/Material Notes/Week 7 Material.md",
     "Material/operatingSystemsAndMiddleware.pdf",
     "Material/essentialsOfComputerArchitecture.pdf",
-    "Attachments/Amdahls law.png",
-    "Attachments/Software hardware.png",
-    "Attachments/Instruction Mix.png",
-    "Attachments/Different people measure different things.png",
     "Notes/Material Notes/Week 6 Material.md",
     "Notes/Material Notes/Week 4 Material.md",
     "Task 1 Comarch.md",
