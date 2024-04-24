@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "76840b90c9636845",
+        "id": "fe7c56d4806e0b3a",
         "type": "tabs",
         "children": [
           {
-            "id": "b70c86c10e365aec",
+            "id": "bae8d9654180927e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Material Notes/Week 12 Material.md",
+                "file": "Notes/Material Notes/Week 13 notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -22,7 +22,7 @@
         ]
       },
       {
-        "id": "fe7c56d4806e0b3a",
+        "id": "38383a6151412dfc",
         "type": "tabs",
         "children": [
           {
@@ -166,22 +166,23 @@
   },
   "active": "d1abe03de4cba362",
   "lastOpenFiles": [
-    "Notes/Material Notes/Week 12 Material.md",
+    "Notes/Material Notes/Week 13 notes.md",
     "Material/anIntroductionToComputerNetworks.pdf",
+    "Attachments/Slide windows.png",
+    "Attachments/Pasted image 20240424144517.png",
+    "Attachments/lost packet.png",
+    "Attachments/Stop and wait.png",
+    "Notes/Material Notes/Week 12 Material.md",
+    "Material/OSM.pdf",
     "Attachments/cases for ladder diagram.png",
     "Attachments/ladder diagrams.png",
     "Notes/Material Notes/Week 11 material.md",
-    "Material/OSM.pdf",
     "Attachments/Pasted image 20240417091541.png",
     "Attachments/three operations of semaphores.png",
     "Attachments/4 different kind of mutex.png",
     "Attachments/mutex with multiple threads.png",
     "Notes/Material Notes/Week 10 Material.md",
-    "Attachments/Mechanism and goal.png",
-    "Attachments/Pasted image 20240412094156.png",
-    "Attachments/wait run queue.png",
     "Notes/Material Notes/Week 8 Material.md",
-    "Attachments/Pasted image 20240411173614.png",
     "Notes/Material Notes/Week 7 Material.md",
     "Material/operatingSystemsAndMiddleware.pdf",
     "Material/essentialsOfComputerArchitecture.pdf",

@@ -15,4 +15,7 @@ $$
 ![[cases for ladder diagram.png]]
 **Round-trip time (RTT)** is the time from sending a packet to recieving a response.
 
-# Error detection
+# Error *detection*
+**Error-detection code** is some extra bits that allow a receiver to determine if a packet has been corrupted in transit. A corrupted package can then be discarded by the receiver.
+
+
