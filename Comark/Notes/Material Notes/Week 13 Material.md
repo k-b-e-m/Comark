@@ -102,3 +102,33 @@ while the client is expecting file "bar".
 
 - **Practical Importance:**
   - Limited practical importance, but relevant for "diskless" devices using TFTP for boot image retrieval.
+
+# The End-to-End principle
+This principles states that the transportation issues named above, are not the core networks problems, however each endpoint should itself handle the problems.
+
+# TCP header
+![[Pasted image 20240429171644.png]]
+Here is a diagram of a TCP header.
+
+The TCP header defines some different flag bits. This is what they stand for:
+- **SYN**: for SYNchronize; marks packets that are part of the new-connection handshake.
+-  **ACK**: indicates that the header Acknowledgment field is valid; that is, all but the first packet
+-  **FIN**: for FINish; marks packets involved in the connection closing
+-  **PSH**: for PuSH; marks "non-full" packets that should be delivered promptly at the far end
+-  **RST**: for ReSeT; indicates various error conditions
+-  **URG**: for URGent; part of a now-seldom-used mechanism for high-priority data
+-  **CWR** and ECE: part of the Explicit Congestion Notification mechanism, 14.8.3 Explicit Congestion
+Notification (ECN)
+
+# TCP Connection Establishment
+**The three way handshake** is used to establish a connection.
+![[Pasted image 20240429172257.png]]
+**To Close Connection** - also called *FIN handshake*
+![[Pasted image 20240429172508.png]]
+
+# TCP state diagram
+
+![[Pasted image 20240429173832.png]]
+Used for implement how a system should respond to each packet arrival.
+Alternatively this could have been explained with a ladder diagram:
+![[Pasted image 20240429173953.png]]
