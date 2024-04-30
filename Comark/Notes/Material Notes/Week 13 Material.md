@@ -132,3 +132,22 @@ Notification (ECN)
 Used for implement how a system should respond to each packet arrival.
 Alternatively this could have been explained with a ladder diagram:
 ![[Pasted image 20240429173953.png]]
+
+# Nagle Algorithm
+The algorithm attempts too improve the behavior if interactive small-packet applications. It specifies that TCP endpoints should queue small data segments untill until it eirther accumulates a full segments's worth or recieves an ACK for the previous batch.
+![[img.png]]
+# TCP flow control
+If a sender can send more packets than the reciever can handle, the reciever can adjust the window size when sending back it ACK. this is caled flowcontrol. 
+There is also a possibility of adjusting the window size to 0. This indicates that the data was recieved, but that no more data can be recieved at this time.
+
+# Silly Window Syndrome
+Can occur when the reciever or sender is too slow.
+![[unnamed.png]]
+An illustatrion above.
+An example case is below:
+![[Pasted image 20240430085152.png]]
+
+
+# Keepalive
+![[Pasted image 20240430085431.png]]
+![[Pasted image 20240430085445.png]]
